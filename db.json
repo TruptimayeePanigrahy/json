@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Nrupul",
+      "age": 37,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD"
+    },
+    {
+      "name": "john",
+      "age": "556",
+      "place": "japan",
+      "batch": "web14",
+      "profession": "Backend",
+      "id": 3
+    },
+    {
+      "name": "john",
+      "age": "34",
+      "place": "itali",
+      "batch": "web15",
+      "profession": "Backend",
+      "id": 4
+    }
+  ],
+  "admins": [
+    {
+      "email": "jaddu@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "email": "satya@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "email": "satya@gmail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "email": "satya@gmail.com",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "email": "satya@gmail.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "email": "satya@gmail.com",
+      "password": "123",
+      "id": 6
+    }
+  ]
+}
